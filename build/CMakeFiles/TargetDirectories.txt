@@ -1,0 +1,3 @@
+/home/wilson/mqtt_faceAI/build/CMakeFiles/rebuild_cache.dir
+/home/wilson/mqtt_faceAI/build/CMakeFiles/edit_cache.dir
+/home/wilson/mqtt_faceAI/build/CMakeFiles/mqtt_faceAI.dir

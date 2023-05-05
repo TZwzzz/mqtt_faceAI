@@ -1,0 +1,13 @@
+[2023-05-05 14:21:27.915][faceDetectLogs][2731004][info]faceDetect() inParm:Threshold:0.5
+[2023-05-05 14:25:24.328][faceDetectLogs][2732694][info]faceDetect() inParm:Threshold:0.5
+[2023-05-05 14:25:49.720][faceDetectLogs][2732909][info]faceDetect() inParm:Threshold:0.5
+[2023-05-05 14:25:55.728][faceDetectLogs][2732915][info]faceDetect() inParm:picName:url.jpg
+[2023-05-05 14:26:04.826][faceDetectLogs][2732915][info]faceDetect() inParm:picName:url.jpg
+[2023-05-05 14:26:55.822][faceDetectLogs][2732915][info]faceDetect() inParm:picName:url.jpg
+[2023-05-05 14:27:01.590][faceDetectLogs][2732915][info]faceDetect() inParm:picName:url.jpg
+[2023-05-05 14:27:13.659][faceDetectLogs][2732915][info]faceDetect() inParm:picName:url.jpg
+[2023-05-05 14:36:29.119][faceDetectLogs][2738066][info]faceDetect() inParm:Threshold:0.5
+[2023-05-05 14:43:52.565][faceDetectLogs][2741603][info]faceDetect() inParm:Threshold:0.5
+[2023-05-05 14:44:32.677][faceDetectLogs][2741610][info]faceDetect() inParm:picName:url.jpg
+[2023-05-05 14:44:45.689][faceDetectLogs][2741610][info]faceDetect() inParm:picName:url.jpg
+[2023-05-05 14:44:56.839][faceDetectLogs][2741610][info]faceDetect() inParm:picName:url.jpg
