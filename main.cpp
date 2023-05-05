@@ -83,6 +83,6 @@ int main()
     {
         pause();
     }
-
+    system("rm *.jpg");
     return 0;
 }
