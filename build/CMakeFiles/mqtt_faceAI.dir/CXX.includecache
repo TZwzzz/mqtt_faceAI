@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-../include/mqttai/api.h
+/home/wilson/mqtt_faceAI/faceDetect.cpp
+faceDetect.h
+/home/wilson/mqtt_faceAI/faceDetect.h
 
 /home/wilson/mqtt_faceAI/faceDetect.h
 opencv2/opencv.hpp
@@ -17,38 +19,6 @@ logs.h
 /home/wilson/mqtt_faceAI/logs.h
 iostream
 -
-
-/home/wilson/mqtt_faceAI/getUrlPic.h
-stdio.h
--
-stdlib.h
--
-string.h
--
-curl/curl.h
--
-iostream
--
-fstream
--
-sstream
--
-logs.h
-/home/wilson/mqtt_faceAI/logs.h
-
-/home/wilson/mqtt_faceAI/json.h
-nlohmann/json.hpp
--
-iostream
--
-vector
--
-pthread.h
--
-faceDetect.h
-/home/wilson/mqtt_faceAI/faceDetect.h
-logs.h
-/home/wilson/mqtt_faceAI/logs.h
 
 /home/wilson/mqtt_faceAI/logs.h
 iostream
@@ -63,24 +33,6 @@ spdlog/sinks/basic_file_sink.h
 /home/wilson/mqtt_faceAI/spdlog/sinks/basic_file_sink.h
 spdlog/sinks/rotating_file_sink.h
 /home/wilson/mqtt_faceAI/spdlog/sinks/rotating_file_sink.h
-
-/home/wilson/mqtt_faceAI/main.cpp
-main.h
-/home/wilson/mqtt_faceAI/main.h
-
-/home/wilson/mqtt_faceAI/main.h
-signal.h
--
-api.h
--
-faceDetect.h
-/home/wilson/mqtt_faceAI/faceDetect.h
-getUrlPic.h
-/home/wilson/mqtt_faceAI/getUrlPic.h
-json.h
-/home/wilson/mqtt_faceAI/json.h
-logs.h
-/home/wilson/mqtt_faceAI/logs.h
 
 /home/wilson/opencv-3.4.12/install/include/opencv/cxcore.h
 opencv2/core/core_c.h
